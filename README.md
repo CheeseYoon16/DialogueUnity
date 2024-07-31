@@ -11,4 +11,3 @@ So, jump into it!
 There's two ways to play this game
 - Download file "Lost Kitty.zip" unzip the file in your local computer
 - Clone the project to your local PC and open Build/Lost Kitty.exe
-- 
