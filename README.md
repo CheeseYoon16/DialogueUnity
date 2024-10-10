@@ -9,5 +9,5 @@ So, jump into it!
 
 # How to play?
 There's two ways to play this game
-- Download file "Lost Kitty.zip" and then unzip the file in your local computer
-- Clone the project to your local PC and open Build/Lost Kitty.exe
+- Download file "Build.zip" and then unzip the file in your local computer
+- Clone the project to your local PC and open Build/My Project.exe
